@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.4.3)
+  - AlamofireImage (4.2.0):
+    - Alamofire (~> 5.4)
+  - PullToRefreshKit (0.8.8)
+
+DEPENDENCIES:
+  - AlamofireImage
+  - PullToRefreshKit
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - PullToRefreshKit
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  AlamofireImage: 34a2d90b0e5fe6a5605f85ae4b7b01e784c60192
+  PullToRefreshKit: 7cc53e720e69f135cffa1a57784dfb534f0222ab
+
+PODFILE CHECKSUM: e6b2d2aa41dfc49585364e6d0288918cad81b834
+
+COCOAPODS: 1.11.2
